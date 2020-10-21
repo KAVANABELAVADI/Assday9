@@ -44,3 +44,5 @@ do
 
 done
 
+echo ${wages[day]}
+echo  ${wages[daywage]}
